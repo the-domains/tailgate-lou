@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Straight From The Grill]]></title>
         <description><![CDATA[Straight From The Grill]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tailgate-lou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 12:42:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 14:30:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tailgate-lou/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef2492d5-d447-4d20-88e6-7675d537112f.jpg" alt="" title="" />]]></description>
-            <link>undefinedfoozeball/index.html</link>
+            <link>https://thegrid.ai/tailgate-lou/foozeball/index.html</link>
             <guid isPermaLink="false">e015f203-a100-4f9a-806e-374c5e3fb928</guid>
             <pubDate>Sat, 23 Apr 2016 12:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Football Fandom 101 - The Tailgate]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4adf110d-9da7-43a0-9fb5-1075980f271d.png">]]></description>
+            <link>https://thegrid.ai/tailgate-lou/football-fandom-101-the-tailgate/index.html</link>
+            <guid isPermaLink="false">ad436b10-2550-48ed-8661-1764764950a4</guid>
+            <pubDate>Sat, 23 Apr 2016 14:30:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
