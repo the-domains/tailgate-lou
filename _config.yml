@@ -1,0 +1,28 @@
+name: Tailgate Lou
+favicon: null
+layout_spectrum: 0.3654038121458143
+typography_spectrum: 0.27283836901187897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17401536111719906
+  lightness: 0.4975456460379064
+  saturation: 0.754202741663903
+  rhythmicContrast: 0.2937652983237058
+purpose: []
